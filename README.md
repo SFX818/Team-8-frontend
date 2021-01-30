@@ -1,6 +1,6 @@
 # Roast
 ## Introduction
-Roast allows its user to search for the nearest cafe and read its reviews at http://roastfrontend.surge.sh/
+Roast allows its user to search for the nearest cafe and read its reviews at http://roast-cafes.surge.sh/
 ## Landing Page
 ![Image of Landing](https://i.imgur.com/qgxEYGw.png)
 ## Technology
